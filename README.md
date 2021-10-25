@@ -8,5 +8,6 @@ En este curso vemos de todo:
 * El flujo de trabajo en Github
 * El verdadero amor por las buenas prácticas
 * Trucos muy interesantes del profesor
+* Creado por Platzi Team
 
 Y como un recordatorio:  **Este readme.md es solo una prueba** Diseñado para ser un ejemplo. NO TE LO TOMES EN SERIO y [**ve a ver el curso**](https://platzi.com/cursos/git-github/ "curso de Git y Github")
