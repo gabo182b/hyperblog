@@ -9,6 +9,7 @@ En este curso vemos de todo:
 * El verdadero amor por las buenas prácticas
 * Trucos muy interesantes del profesor
 * Creado por Platzi Team
-* Incluye ejemplos en Windows, Linux y Mac 
+* Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 Y como un recordatorio:  **Este readme.md es solo una prueba** Diseñado para ser un ejemplo. NO TE LO TOMES EN SERIO y [**ve a ver el curso**](https://platzi.com/cursos/git-github/ "curso de Git y Github")
